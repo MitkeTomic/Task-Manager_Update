@@ -1,0 +1,10 @@
+------------[USER REPORT]-----------------------------------------------------------------------
+The total number of registered users:		5
+The total number of tasks:		8
+The total number of tasks assigned to milos is:		4
+The percentage of the total number of tasks assigned to milos:			50.0%
+The percentage of tasks assigned to milos that have been completed:		50.0%
+The percentage of tasks assigned to milos that haven't been completed 	50.0%
+The percentage of tasks assigned to milos that haven't been completed and are overdue 	1%
+
+--------------------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+milos, work, going to work, 2023-01-25, 2023-01-13, No
+marko, having kids, his wife will give birth, 2023-11-12, 2023-01-13, No
+milos, fininshing , finishing project capstone 3, 2023-01-08, 2023-01-13, Yes
+milos, going, going to work, 2023-01-12, 2023-01-13, Yes
+admin, register users with taskmanager.py, Use taskmanager.py to add the usernames and passwords for all team memebers that will be using this program., 2019-10-10, 2023-01-15, No
+admin, Assign initial tasks, Use taskmanager.py to assign each team memeber with appropriate tasks, 2019-10-10, 2023-01-15, No
+milos, going out, going out to see his friends, 2023-01-10, 2023-01-15, No
+marko, going to london, Travelling to London from Serbia, 2023-01-23, 2023-01-15, Yes
